@@ -1,2 +1,2 @@
 # calculator-project
-A calculator project that performs basic airthmetic operations using html css & javascript.
+A Responsive calculator project that performs basic airthmetic operations using html css & javascript.
