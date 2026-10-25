@@ -20,10 +20,9 @@ A modern, responsive calculator built with **HTML, CSS, and JavaScript**. This p
 ## 📂 Project Structure
 
 ```text
-calculator-project/
 ├── index.html
-├── style.css
-└── script.js
+├── calculator.css
+└── calculator.js
 ```
 
 ## 🚀 Getting Started
@@ -38,7 +37,7 @@ calculator-project/
 3. Open `index.html` in your browser.
 4. Start performing calculations.
 
-Replace `YOUR-USERNAME` with your GitHub username.
+Replace `skcodes04` with your GitHub username.
 
 ## 🎯 Project Purpose
 
