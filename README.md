@@ -43,12 +43,6 @@ Replace `skcodes04` with your GitHub username.
 
 This project demonstrates fundamental frontend development skills, including HTML structure, CSS styling, responsive design, DOM manipulation, and JavaScript event handling.
 
-## 🔮 Future Improvements
-
-- Add keyboard input support
-- Improve error handling for invalid calculations
-- Add a calculation history feature
-- Introduce dark and light themes
 
 ## 👨‍💻 Author
 
